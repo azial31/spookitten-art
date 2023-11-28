@@ -75,7 +75,7 @@ td,th{
 }
 table{
 	border-collapse: collapse;
-	margin-left: 350px;
+	margin: auto;
 	background: #67646E;
 	box-shadow: 2px 2px 3px black;
 	
